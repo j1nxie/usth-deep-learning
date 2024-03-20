@@ -18,7 +18,7 @@ h5py = "^3.10.0"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.11.0"
+black = "^24.3.0"
 ruff = "^0.1.5"
 
 [build-system]
